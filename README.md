@@ -13,3 +13,9 @@ This is a Python quiz application developed for the Jamf 100 exam. It uses a GUI
 
 - Python 3.10+
 - Kivy framework
+
+## Usage
+- Upon running the application, the quiz interface will be displayed.
+- Select your answers for each question by clicking on the options provided.
+- Click the "Submit" button to submit your answers.
+- After submitting, the application will display your score and the correct answers.
